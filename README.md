@@ -17,5 +17,13 @@
   ![image](https://github.com/rohithgopakumar/SCL_WORKSHOP/assets/131611312/d9b1ac38-4d37-4535-9bb2-eceff8ce5d67)
 
 
+</details>
+<details>
+<summary>DESIGN OF THE CELLS </summary>
 
 
+
+
+</details>
+<details>
+<summary>CHARACTERIZATION </summary>
