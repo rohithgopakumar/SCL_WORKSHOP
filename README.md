@@ -2,8 +2,6 @@
 
 # WORKSHOP CONTENT
 
-# COURSE CONTENT
-
 </details>
 <details>
 <summary>STEPS TO DESIGN STANDARD CELL </summary>
