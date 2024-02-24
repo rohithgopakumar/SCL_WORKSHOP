@@ -10,3 +10,12 @@
 ![image](https://github.com/rohithgopakumar/SCL_WORKSHOP/assets/131611312/4bab8842-f52e-4523-8fd8-b3f23c38cc1b)
 ![image](https://github.com/rohithgopakumar/SCL_WORKSHOP/assets/131611312/f693c0d2-5dac-4e75-8749-d4eb05438262)
 ![image](https://github.com/rohithgopakumar/SCL_WORKSHOP/assets/131611312/d9b1ac38-4d37-4535-9bb2-eceff8ce5d67)
+
+
+
+# COURSE CONTENT
+
+</details>
+<details>
+<summary>DAY 1:  Inception of open-source EDA,Openlane and sky130 PDK </summary>
+<br>
